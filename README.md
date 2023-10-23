@@ -26,6 +26,6 @@
 
   ## Questions
 
-  Please contact me with any questions using either of the avenues below. 
+  Please contact me below. 
 
   Github URL: https://github.com/sentuhxd
